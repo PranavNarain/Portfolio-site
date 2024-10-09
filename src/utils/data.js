@@ -65,6 +65,15 @@ export const WORK_EXPERIENCE =[
         ],
     },
     {
+        title:"Internship(remote) - Oasis Infobyte",
+        date:"August 2024",
+        responsibilities:[
+            "Completed an internship program in Web Development and Design, focusing on HTML, CSS, and JavaScript.",
+            "Successfully managed and delivered three web development tasks within set deadlines, demonstrating technical proficiency and time management skills.",
+            "Earned certification based on the quality of task completion and applied techniques."
+        ],
+    },
+    {
         title:"Fullstack Job Portal Application",
         date:"ReactJS, Express, NodeJS and MongoDB",
         responsibilities:[
@@ -82,4 +91,5 @@ export const WORK_EXPERIENCE =[
             "Current version operates without a database, so posts do not persist across sessions."
         ],
     },
+    
 ];
