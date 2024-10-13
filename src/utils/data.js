@@ -66,7 +66,7 @@ export const WORK_EXPERIENCE =[
     },
     {
         title:"Internship(remote) - Oasis Infobyte",
-        date:"August 2024",
+        date:"August 2022",
         responsibilities:[
             "Completed an internship program in Web Development and Design, focusing on HTML, CSS, and JavaScript.",
             "Successfully managed and delivered three web development tasks within set deadlines, demonstrating technical proficiency and time management skills.",
